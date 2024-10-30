@@ -1,1 +1,1 @@
-banglure
+city:banglure
